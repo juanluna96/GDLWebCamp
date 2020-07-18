@@ -1,0 +1,54 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lista-precios li {
+    margin-bottom: 20px;
+}
+
+.tabla-precio h3 {
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #007bff;
+    font-size: 20px;
+}
+
+.numero {
+    font-size: 25px;
+}
+
+.contenido-dia label {
+    font-weight: normal!important;
+}
+
+.contenido-dia time {
+    color: #007bff;
+    font-weight: bold;
+}
+
+.contenido-dia .autor {
+    font-weight: bold;
+}
+
+.contenido-dia {
+    display: none;
+}
+
+.contenido-dia {
+    margin-bottom: 30px;
+}
+
+.nombre_dia {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #007bff;
+    font-size: 16px;
+}
+
+.tipo-evento {
+    font-weight: bold;
+    font-style: italic;
+}

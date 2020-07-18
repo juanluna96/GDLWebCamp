@@ -1,0 +1,53 @@
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Responsive Web Design', '2020-12-09', '10:00:00', '3', '1', 'taller_01');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Flexbox', '2020-12-09', '12:00:00', '3', '2', 'taller_02');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'HTML5 y CSS3', '2020-12-09', '14:00:00', '3', '3', 'taller_03');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Drupal', '2020-12-09', '17:00:00', '3', '4', 'taller_04');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'WordPress', '2020-12-09', '19:00:00', '3', '5', 'taller_05');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, ' Mobile Android, DJango y Nodejs', '2020-12-09', '19:00:00', '3', '5', 'taller_06');
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Como ser freelancer', '2020-12-09', '10:00:00', '2', '6', 'conf_01');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Tecnologias del Futuro', '2020-12-09', '17:00:00', '2', '1', 'conf_02');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Seguridad en la Web', '2020-12-09', '19:00:00', '2', '2', 'conf_03');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Seguridad en la Web', '2020-12-09', '19:00:00', '2', '2', 'conf_03');
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Diseño UI/UX para moviles', '2020-12-09', '10:00:00', '1', '6', 'sem_01');
+
+
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'AngularJS', '2020-12-10', '10:00:00', '3', '1', 'taller_06');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'PHP y MySQL', '2020-12-10', '12:00:00', '3', '2', 'taller_07');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'JavaScript Avanzado', '2020-12-10', '14:00:00', '3', '3', 'taller_08');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'SEO en Google', '2020-12-10', '17:00:00', '3', '4', 'taller_09');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'De Photoshop a HTML5 y CSS3', '2020-12-10', '19:00:00', '3', '5', 'taller_10');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'PHP Intermedio y Avanzado', '2020-12-10', '21:00:00', '3', '6', 'taller_11');
+
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Como crear una tienda online que venda millones en pocos dias', '2020-12-10', '10:00:00', '2', '6', 'conf_04');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Los mejores lugares para encontrar trabajo', '2020-12-10', '17:00:00', '2', '1', 'conf_05');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Pasos para crear un negocio rentable ', '2020-12-10', '19:00:00', '2', '2', 'conf_06');
+
+
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Aprende a programar en una mañana', '2020-12-10', '10:00:00', '1', '3', 'sem_02');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Diseño UI/UX para moviles', '2020-12-10', '17:00:00', '1', '5', 'sem_03');
+
+
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Laravel', '2020-12-11', '10:00:00', '3', '1', 'taller_12');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Crea tu propia API', '2020-12-11', '12:00:00', '3', '2', 'taller_13');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'JavaScript y jQuery', '2020-12-11', '14:00:00', '3', '3', 'taller_14');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Creando Plantillas para WordPress', '2020-12-11', '17:00:00', '3', '4', 'taller_15');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Tiendas Virtuales en Magento', '2020-12-11', '19:00:00', '3', '5', 'taller_16');
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Como hacer Marketing en linea', '2020-12-11', '10:00:00', '2', '6', 'conf_07');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, '¿Con que lenguaje debo empezar?', '2020-12-11', '17:00:00', '2', '2', 'conf_08');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Frameworks y librerias Open Source', '2020-12-11', '19:00:00', '2', '3', 'conf_09');
+
+
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Creando una App en Android en una mañana', '2020-12-11', '10:00:00', '1', '4', 'sem_04');
+INSERT INTO `gdlwebcamp`.`eventos` (`evento_id`, `nombre_evento`, `fecha_evento`, `hora_evento`, `id_cat_evento`, `id_inv`, `clave`) VALUES (NULL, 'Creando una App en iOS en una tarde', '2020-12-11', '17:00:00', '1', '1', 'sem_05');
+
+Reiniciar enumeracion base de datos:
+SET @autoid :=0;
+UPDATE eventos SET evento_id = @autoid :=(@autoid +1);
+ALTER TABLE eventos AUTO_INCREMENT =1;
